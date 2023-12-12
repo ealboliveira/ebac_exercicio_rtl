@@ -1,15 +1,11 @@
-# Requisitos
-## Instalar as dependências
-`npm install` ou `yarn install`
-
-## Para executar os testes
-`npm run test` ou `yarn test`
-
-## Para executar a aplicação em localhost
-`npm start` ou `yarn start`
-
-# Para o exercício
-O arquivo onde o teste deve ser escrito está em src/components/PostComments/PostComments.test.tsx
-
-## Resolução
-Neste repositório existe uma branch chamada **resolucao** com o exercício resolvido, é importante que a utilize como consulta caso tenha dificuldades ou até mesmo para comparar com a abordagem que você adotou, **não faça simplesmente um copiar/colar** - confio em você ;)
+1) Criar uma lista de contatos utilizando o React.< br/>
+2) Usar o Redux para gestão dos dados.< br/>
+3) Utilizar o Styled Components para estilização.< br/>
+4) Os contatos deverão conter as informações:< br/>
+nome completo;< br/>
+e-mail;< br/>
+telefone;< br/>
+5) Incluir as funcionalidades:< br/>
+adição;< br/>
+remoção;< br/>
+edição dos itens da lista de contatos.< br/>
